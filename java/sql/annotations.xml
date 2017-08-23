@@ -1,0 +1,5 @@
+<root>
+    <item name='java.sql.DriverManager'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

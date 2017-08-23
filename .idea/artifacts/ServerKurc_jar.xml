@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="ServerKurc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServerKurc_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ServerKurc.jar">
+        <element id="module-output" name="ServerKurc" />
+      </element>
+      <element id="library" level="project" name="mysql:mysql-connector-java:5.1.40" />
+      <element id="library" level="project" name="org.apache.poi:poi-ooxml:3.16" />
+    </root>
+  </artifact>
+</component>
